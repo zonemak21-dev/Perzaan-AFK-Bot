@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "NOXTERNYT.aternos.me",
+    "port": 29079,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
